@@ -1,0 +1,27 @@
+{
+  "name": "tar-vue-music-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaRa3uT/TAR-Vue-Music-Player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaRa3uT/TAR-Vue-Music-Player/issues"
+  },
+  "homepage": "https://github.com/PaRa3uT/TAR-Vue-Music-Player#readme",
+  "devDependencies": {
+    "vite": "^2.6.14",
+    "vite-plugin-vue2": "^1.9.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
