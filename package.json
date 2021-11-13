@@ -17,11 +17,15 @@
   },
   "homepage": "https://github.com/PaRa3uT/TAR-Vue-Music-Player#readme",
   "devDependencies": {
+    "@mdi/js": "^6.4.95",
+    "sass": "~1.32",
+    "unplugin-vue-components": "^0.17.2",
     "vite": "^2.6.14",
     "vite-plugin-vue2": "^1.9.0",
     "vue-template-compiler": "^2.6.14"
   },
   "dependencies": {
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "vuetify": "^2.5.14"
   }
 }
